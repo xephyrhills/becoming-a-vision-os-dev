@@ -11,3 +11,5 @@ Working with windows
 Working with volumes
 
 Working with spaces
+
+Working with gestures

@@ -1,3 +1,8 @@
 # Becoming a VisionPro Developer
 
+Rough outline of frameworks to be knowledgeable in
+https://developer.apple.com/visionos/prepare/
+
+Apple Provided Learning Videos
+https://developer.apple.com/visionos/learn/
 
